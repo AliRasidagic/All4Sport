@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">All4Sport</string>
+    <string name="starting_page">Welcome</string>
+    <string name="registration">Registration</string>
+    <string name="login">Log In</string>
+    <string name="home">Home</string>
+    <string name="exercises">Choose Goal</string>
+    <string name="choose">Choose Plan</string>
+    <string name="desc">Information</string>
+    <string name="simple">Simple</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+
+    <string name="simple_squats">Standing with feet shoulder-width apart, the hips are lowered by bending the knees, then returning to a standing position, targeting the lower body muscles.</string>
+    <string name="simple_pushups">Starting in a prone position, the body is pushed up and lowered by bending and straightening the arms, engaging the chest, shoulders, and triceps.</string>
+    <string name="simple_diamond">Similar to regular push-ups, but with the hands close together under the chest, forming a diamond shape, emphasizing triceps engagement.</string>
+    <string name="simple_plank">Assuming a position similar to a push-up but with the forearms on the ground, this exercise engages the core muscles, promoting stability and strength.</string>
+    <string name="simple_burpees">Combining a squat, push up, and jump, this full body exercise involves starting in a standing position, dropping to a plank, performing a push up, and jumping back up.</string>
+    <string name="simple_lunges">Stepping forward with one leg, bending both knees to lower the body, and then returning to the starting position, targeting the quadriceps, hamstrings, and glutes.</string>
+
+    <string name="medium_benchPress">Lying straight on a bench, a barbell is lowered to the chest and then pushed back up, targeting the chest muscles, shoulders, and especially triceps.</string>
+    <string name="medium_legExtensions">Sitting still on a machine, the legs are extended from a bent position repeatedly, targeting the quadriceps muscles on the front of the thighs.</string>
+    <string name="medium_latPulldown">Sitting at a pulldown machine, a bar is grabbed with both hands and pulled down to the upper chest, engaging the "latissimus dorsi" muscles of the back.</string>
+    <string name="medium_barbellPress">Standing or seated (better to stand), a barbell is lifted from shoulder level to an overhead position, targeting the shoulder muscles and triceps.</string>
+    <string name="medium_tricepPushdown">Standing at a cable machine, a bar is pushed down against resistance, again with both hands, targeting the triceps muscles on the back of the upper arms.</string>
+    <string name="medium_hammerCurls">Standing with dumbbells, the arms are curled up with a neutral grip (palms facing each other), targeting the biceps muscles (very important to be still).</string>
+    <string name="medium_calfRaises">Standing with either both legs or a single on the edge of a step or platform, the heels are lifted to raise the body up, targeting the calf muscles.</string>
+
+    <string name="hard_inclinePress">Lying on an inclined bench, a barbell is lowered to the upper chest and then pressed back up, targeting the upper chest, shoulders, and triceps.</string>
+    <string name="hard_splitSquat">Standing with one foot elevated behind, lower the body by bending the front knee, targeting the quadriceps, glutes, and hamstrings. Alternate legs a few times</string>
+    <string name="hard_barbellRow">Bent over at a 45 degree angle with a barbell, pull it towards the torso while keeping the back straight, targeting the upper back muscles, lats, and biceps.</string>
+    <string name="hard_getToTheChoppa">An exercise invented by Arnold. Standing or seated, dumbbells are pressed overhead while rotating the palms, targeting the shoulders, triceps, and upper back.</string>
+    <string name="hard_skullCrushers">Lying on a bench, an EZ bar is lowered to the forehead and then extended upward, targeting the triceps muscles. Can be done with dumbbells.</string>
+    <string name="hard_barbellCurl">Standing with a barbell, curl it upward towards the shoulders in a single, slow motion, while keeping the elbows stationary, targeting the biceps muscles.</string>
+    <string name="hard_deadlift">Standing with a barbell on the floor, lift it by extending the hips and knees while keeping the back straight, targeting the posterior chain muscles.</string>
+
+    <string name="first_plan">This simple plan is primarily for people who want to exercise casually and/or do not have enough time to commit to exercising. Here, you will find simple exercises that do not require gym equipment and can be done from the comfort of your home.</string>
+    <string name="second_plan">The medium plan is not much harder than the simple one, but it is more time-consuming. It is perfect for users who have more time on their hands but do not want the hardest exercises. Note: Some gym equipment is required.</string>
+    <string name="third_plan">The hardest exercises are for the strongest! In this plan, there are a lot of exercises, and the difficulty greatly increases from the medium plan. This plan requires the most attention and time but also promises the best results. Note: Gym equipment is required.</string>
+    <string name="big_text">Our plans are reliable, effective, and most importantly, customizable for each and every one of our users. We offer three levels of difficulty: easy, for people who do not have enough time to fully commit themselves; medium, for more experienced users; and hard, for the best results. You will not regret using our plans, which focus on three main goals: maintaining bodyweight, building muscle, and losing weight. With all these options, we guarantee that all users will find something to suit them. Most importantly, everything is completely free. Forever.</string>
+</resources>
